@@ -1,0 +1,28 @@
+{
+  "1524932511807967272": {
+    "title": "🎫 | **SUPORTE DA RED GRAPHICS!**",
+    "description": "🎨 Bem-vindo ao suporte da Red Graphics!\n\nAbra um ticket para solicitar seus designs, tirar dúvidas ou receber atendimento personalizado.\n\n📌 Explique o que você precisa com o máximo de detalhes possível para que nossa equipe possa ajudar da melhor forma.\n\n⏳ Aguarde um membro da equipe responder. Obrigado pela preferência! ❤️",
+    "color": 15548997,
+    "buttons": [
+      {
+        "id": "adquirir-design",
+        "label": "ADQUIRIR DESIGN!",
+        "emoji": "🎨"
+      },
+      {
+        "id": "suporte-t-cnico",
+        "label": "SUPORTE TÉCNICO",
+        "emoji": "🔧"
+      },
+      {
+        "id": "tirar-duvidas",
+        "label": "TIRAR DUVIDAS!",
+        "emoji": "❓"
+      }
+    ],
+    "thumbnailUrl": "https://discord.com/channels/1524932511807967272/1525015609325129768/1525018227183190097",
+    "staffRoleId": "1524936570950520932",
+    "categoryId": "1524936576910757989",
+    "logChannelId": "1524936663816601630"
+  }
+}
