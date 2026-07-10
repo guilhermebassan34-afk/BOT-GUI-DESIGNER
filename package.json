@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/node": "latest:",
     "tsx": "c
-    latest:",
+    latest",
     "typescript": "~5.9.3"
   }
 }
