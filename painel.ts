@@ -1,5 +1,5 @@
 import { ChatInputCommandInteraction, PermissionFlagsBits, SlashCommandBuilder } from "discord.js";
-import { errorEmbed, successEmbed } from "../tickets/embeds.js";
+import { errorEmbed, successEmbed } from "../tickets/embeds.ts";
 import { getGuildConfig } from "../ticketpanel/store.js";
 import { buildTicketButtonRow, buildTicketPanelEmbed } from "../ticketpanel/ui.js";
 
